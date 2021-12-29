@@ -1,0 +1,26 @@
+.Font{
+text-align: center;
+font-size: 120px;
+padding-top: 100px;
+color: #0000ff;
+}
+.Search{
+text-align: center;
+padding: 23px;
+}
+.Other{
+text-align: right;
+padding-top: 10px;
+padding-right: 50px;
+font-size: 15px;
+}
+h5{
+text-align:center;
+padding-top:264.5px;
+font-size:15px;
+}
+.image{
+position:absolute;
+top: 309.5px;
+left: 510px;
+}
